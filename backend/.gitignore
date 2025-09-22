@@ -1,0 +1,23 @@
+# Dependencies
+/node_modules
+
+# Prisma
+/generated
+
+# Production
+/dist
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env*.local
+
+# OS generated files
+.DS_Store
+Thumbs.db
